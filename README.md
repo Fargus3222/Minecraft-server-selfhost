@@ -47,3 +47,12 @@ make build && make init
 ```
 
 Deploy requires docker and docker compose
+
+
+## How to access to console
+
+
+```bash
+docker attach minecraft-server
+```
+for exit ctrl+p ctrl+q
