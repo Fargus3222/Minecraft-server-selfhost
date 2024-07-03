@@ -8,8 +8,10 @@ Mods and world directories are forwarded to the docker container. Made for ease 
 
 ## Structure
 ```
+.
 |-- Dockerfile
 |-- Makefile
+|-- README.md
 |-- docker-compose.yml
 |-- eula.txt
 |-- minecraft
@@ -17,8 +19,7 @@ Mods and world directories are forwarded to the docker container. Made for ease 
 |   |-- banned-players.json
 |   |-- config
 |   |-- eula.txt
-|   |-- forge-1.12.2-14.23.5.2860-installer.jar.log
-|   |-- forge-1.12.2-14.23.5.2860.jar
+|   |-- forge.jar
 |   |-- libraries
 |   |-- logs
 |   |-- minecraft_server.1.12.2.jar
@@ -30,6 +31,8 @@ Mods and world directories are forwarded to the docker container. Made for ease 
 |   |-- whitelist.json
 |   `-- world
 |-- mods
+|-- server.properties
+`-- world
 ```
 
 ## Deploy

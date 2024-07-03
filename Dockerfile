@@ -24,5 +24,5 @@ COPY mods /minecraft/mods/
 COPY world /minecraft/world/
 
 # Set the entrypoint to start the Minecraft server
-ENTRYPOINT ["java", "-Xmx1024M", "-Xms512M", "-jar", "forge-1.12.2-14.23.5.2860.jar", "nogui"]
+ENTRYPOINT ["java", "-Xmx1024M", "-Xms512M", "-jar", "forge.jar", "nogui"]
 
