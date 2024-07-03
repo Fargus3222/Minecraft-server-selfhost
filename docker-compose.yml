@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  minecraft-server:
+    image: minecraft:latest
+    container_name: minecraft-server
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./eula.txt:/minecraft/eula.txt
+      - ./server.properties:/minecraft/server.properties
+      - ./mods:/minecraft/mods
+      - ./mods:/minecraft/world
+    restart: unless-stopped
