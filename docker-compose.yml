@@ -12,3 +12,5 @@ services:
       - ./mods:/minecraft/mods
       - ./world:/minecraft/world
     restart: unless-stopped
+    stdin_open: true
+    tty: true
