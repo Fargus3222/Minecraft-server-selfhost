@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: cd into repo
         uses: actions/checkout@v2
-      - name: Down service
+      - name: Clean images
         run: make clean
   Build:
     needs: Clean
@@ -26,7 +26,7 @@ jobs:
     steps:
       - name: cd into repo
         uses: actions/checkout@v2
-      - name: Down service
+      - name: Build images
         run: make build
   Up:
     needs: Build
