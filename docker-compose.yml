@@ -11,6 +11,9 @@ services:
       - ./server.properties:/minecraft/server.properties
       - ./mods:/minecraft/mods
       - ./world:/minecraft/world
+      - ./banned-ips.json:/minecraft/banned-ips.json
+      - ./banned-players.json:/minecraft/banned-players.json
+      - ./ops.json:/minecraft/ops.json
     restart: unless-stopped
     stdin_open: true
     tty: true

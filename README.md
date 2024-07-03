@@ -6,6 +6,8 @@ Server based on minecraft 1.12.2 forge 14.23.5.2860
 
 Mods and world directories are forwarded to the docker container. Made for ease of server modification
 
+banned-ips.json, banned-players.json and ops.json are also forwarded into the container to avoid deleting ban records and operators after the container is restarted 
+
 ## Structure
 ```
 .
@@ -31,6 +33,9 @@ Mods and world directories are forwarded to the docker container. Made for ease 
 |   |-- whitelist.json
 |   `-- world
 |-- mods
+|-- banned-ips.json 
+|-- banned-players.json
+|-- ops.json
 |-- server.properties
 `-- world
 ```
