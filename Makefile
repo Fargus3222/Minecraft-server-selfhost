@@ -5,7 +5,7 @@ down:
 		docker compose down
 
 clean:
-		docker docker rmi minecraft-selfhost:latest
+		docker rmi minecraft-selfhost:latest
 
 build:
 		docker build . -t minecraft-selfhost
