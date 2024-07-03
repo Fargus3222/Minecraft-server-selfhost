@@ -1,0 +1,28 @@
+name: Deploy
+on:
+  push:
+    branches: [ "master"]
+
+
+jobs:
+  Down:
+    runs-on: self-hosted
+    steps:
+      - name: cd into repo
+        uses: actions/checkout@v2
+      - name: Down service
+        run: make down
+  Clean:
+    runs-on: self-hosted
+    steps:
+      - name: cd into repo
+        uses: actions/checkout@v2
+      - name: Down service
+        run: make clean
+  Up:
+    runs-on: self-hosted
+    steps:
+      - name: cd into repo
+        uses: actions/checkout@v2
+      - name: Up service
+        run: make init
