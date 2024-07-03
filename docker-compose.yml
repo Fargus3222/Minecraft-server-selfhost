@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   minecraft-server:
-    image: minecraft:latest
+    image: minecraft-selfhost:latest
     container_name: minecraft-server
     ports:
       - "25565:25565"

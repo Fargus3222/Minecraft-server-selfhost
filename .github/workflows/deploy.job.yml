@@ -13,13 +13,23 @@ jobs:
       - name: Down service
         run: make down
   Clean:
+    needs: Down
     runs-on: self-hosted
     steps:
       - name: cd into repo
         uses: actions/checkout@v2
       - name: Down service
         run: make clean
+  Build:
+    needs: Clean
+    runs-on: self-hosted
+    steps:
+      - name: cd into repo
+        uses: actions/checkout@v2
+      - name: Down service
+        run: make build
   Up:
+    needs: Build
     runs-on: self-hosted
     steps:
       - name: cd into repo
