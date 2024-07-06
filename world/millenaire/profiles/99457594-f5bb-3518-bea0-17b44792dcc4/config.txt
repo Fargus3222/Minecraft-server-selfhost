@@ -1,0 +1,12 @@
+player_name=Fargus3222
+donation_mode=true
+culture_reputation=japanese,4096
+culture_reputation=norman,4096
+culture_language=japanese,929
+culture_language=norman,8256
+village_reputations=219/75/-243,56129
+village_reputations=471/67/-1042,603700
+village_diplomacy=219/75/-243,5
+village_diplomacy=977/76/-2617,5
+village_diplomacy=1213/66/-2763,5
+village_diplomacy=471/67/-1042,5

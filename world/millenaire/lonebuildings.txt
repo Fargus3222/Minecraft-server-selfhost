@@ -1,0 +1,5 @@
+Auberge de la Croix Blanche;24/68/23;loneroadhouse;norman;
+Apomonomeno Boske Probaton;303/67/-90;lonesheepfarm_x;byzantines;
+Moulin abandonné;438/81/-749;abandonedmill;norman;
+Tour de l'Achimiste;417/102/-1334;alchemisttower;norman;
+Sa'at Muul;1167/75/-2324;mayanruinedpyramid;mayan;
