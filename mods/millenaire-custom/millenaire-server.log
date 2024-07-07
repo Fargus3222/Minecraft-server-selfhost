@@ -55,3 +55,42 @@
 8.1.2 06-07-2024 18:17:28 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@7a225182: No TileEntitySign at: 209/71/-275
 8.1.2 06-07-2024 18:28:01 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@7a225182: No TileEntitySign at: 209/71/-275
 8.1.2 06-07-2024 18:28:06 ERROR: org.millenaire.common.village.buildingmanagers.PanelManager@7a225182: No TileEntitySign at: 209/71/-275
+8.1.2 07-07-2024 09:15:17 Starting new session. Mods: examplemod 
+8.1.2 07-07-2024 09:15:35 ERROR: null: agriculture_small_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: agriculture_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: artisans_small_seljuks: Error when reading value 'g?lgealti' for parameter never: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: controlled_fort_seljuks: Error when reading value 'g?lgealti' for parameter core: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: controlled_small_village_seljuks: Error when reading value 'g?lgealti' for parameter core: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: military_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: religious_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 ERROR: null: trading_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:15:35 MAJOR: null: Loading language: fr
+8.1.2 07-07-2024 09:15:39 ERROR: null: Git conflict lines present in /minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 07-07-2024 09:15:39 ERROR: null: Git conflict lines present in /minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 07-07-2024 09:15:39 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 07-07-2024 09:22:21 Starting new session. Mods: examplemod 
+8.1.2 07-07-2024 09:22:36 ERROR: null: agriculture_small_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: agriculture_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: artisans_small_seljuks: Error when reading value 'g?lgealti' for parameter never: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: controlled_fort_seljuks: Error when reading value 'g?lgealti' for parameter core: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: controlled_small_village_seljuks: Error when reading value 'g?lgealti' for parameter core: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: military_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: religious_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 ERROR: null: trading_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 09:22:36 MAJOR: null: Loading language: fr
+8.1.2 07-07-2024 09:22:37 ERROR: null: Git conflict lines present in /minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 07-07-2024 09:22:37 ERROR: null: Git conflict lines present in /minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 07-07-2024 09:22:37 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning
+8.1.2 07-07-2024 10:20:21 Starting new session. Mods: examplemod 
+8.1.2 07-07-2024 10:20:38 ERROR: null: agriculture_small_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: agriculture_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: artisans_small_seljuks: Error when reading value 'g?lgealti' for parameter never: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: controlled_fort_seljuks: Error when reading value 'g?lgealti' for parameter core: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: controlled_small_village_seljuks: Error when reading value 'g?lgealti' for parameter core: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: military_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: religious_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:38 ERROR: null: trading_village_seljuks: Error when reading value 'g?lgealti' for parameter secondary: Unknown building: g?lgealti
+8.1.2 07-07-2024 10:20:39 MAJOR: null: Loading language: fr
+8.1.2 07-07-2024 10:20:39 ERROR: null: Git conflict lines present in /minecraft/mods/millenaire/languages/zh_tw/quests_sadhu.txt
+8.1.2 07-07-2024 10:20:39 ERROR: null: Git conflict lines present in /minecraft/mods/millenaire/languages/zh_tw/quests_alchemist.txt
+8.1.2 07-07-2024 10:20:39 MAJOR: null: LanguageData loaded: fr. Wand invitem name: Wand of Summoning

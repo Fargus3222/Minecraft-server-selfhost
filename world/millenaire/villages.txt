@@ -3,3 +3,4 @@ Courseulles-l'océan;471/67/-1042;agricole;norman;
 Villers-le-fort;903/78/-596;militaire;norman;
 Hasinai;1213/66/-2763;farmingvillage;inuits;
 Hachinohe;977/76/-2617;trading;japanese;
+Narai;-314/77/182;gunji;japanese;
